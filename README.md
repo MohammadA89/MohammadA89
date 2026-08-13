@@ -2,7 +2,7 @@
 
 💻 Student & Developer  
 🚀 Building web applications and AI-powered projects  
-🧠 Interested in AI, Backend, Blockchain & Open Source
+🧠 Interested in AI, Frontend, Blockchain & Open Source
 
 ## 🛠️ Tech Stack
 
