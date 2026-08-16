@@ -195,9 +195,9 @@ A modern e-commerce platform for pet products.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammadA89&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadA89&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
 </div>
 
@@ -205,7 +205,7 @@ A modern e-commerce platform for pet products.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadA89&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
@@ -215,7 +215,7 @@ A modern e-commerce platform for pet products.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohammadA89&theme=tokyonight&hide_border=true&layout=compact" width="70%"/>
 
 </div>
 
