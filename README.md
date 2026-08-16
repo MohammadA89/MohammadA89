@@ -1,117 +1,318 @@
-# Hi, I'm Mohammad 👋
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 💻 Student & Developer
+<!--                         HEADER                                  -->
 
-I'm a student and developer passionate about building modern web applications, AI-powered tools, and software projects.
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-🚀 Building modern web applications
-🧠 Exploring AI & LLMs
-🌐 Frontend & Full-Stack Development
-⛓️ Interested in Blockchain & Open Source
-🌱 Currently learning Go, Rust & System Design
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohammad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 👋 Hi, I'm Mohammad
+
+### 💻 Student & Developer · 🤖 AI Enthusiast · 🌐 Full-Stack Builder
+
+<p>
+  <i>Building ideas into real software, one project at a time.</i>
+</p>
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6e40c9"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=238636"/>
+</a>
+<a href="mailto:aghajanimohammad.13a89@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://t.me/Miomo26">
+  <img src="https://img.shields.io/badge/Telegram-@Miomo26-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  👨‍💻  Student & Developer                                  │
+│  🚀  Building modern web applications                       │
+│  🤖  Exploring AI, LLMs & intelligent systems                │
+│  🌐  Full-Stack & Backend development                        │
+│  ⛓️  Interested in Blockchain & Web3                        │
+│  🧩  Love turning ideas into real products                   │
+│  🌱  Always learning something new                           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# ⚡ What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & LLMs
+
+Exploring artificial intelligence, LLMs, AI agents and intelligent applications.
+
+</td>
+<td width="50%">
+
+### 🌐 Web Development
+
+Building modern, scalable and user-friendly web applications.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⛓️ Blockchain
+
+Learning blockchain fundamentals, Web3 and decentralized applications.
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend & Systems
+
+Exploring backend architecture, databases, APIs and system design.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css,go" />
+</p>
 
-### ⚛️ Frameworks & Technologies
+### ⚛️ Frameworks & Runtime
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
+</p>
 
----
+### 🗄️ Database & Infrastructure
 
-## 🚀 Featured Projects
-
-### 🎮 GameX
-
-A gaming platform focused on connecting Iranian gamers with social features, profiles, feeds, and gaming-related tools.
-
-**Tech:** Next.js · TypeScript · PostgreSQL
-
----
-
-### 🎵 MeloBeat
-
-A music platform and Telegram-based project focused on music discovery, metadata management, playlists, and music-related tools.
-
-**Tech:** Node.js · TypeScript · PostgreSQL · Telegram API
-
----
-
-### 🐾 HedwigStore
-
-A modern e-commerce platform for pet products with a focus on user experience, product management, and online shopping.
-
-**Tech:** Next.js · TypeScript · PostgreSQL
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux" />
 </p>
 
 ---
 
-## ⏱️ WakaTime
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+## 🎮 GameX
+
+A gaming platform designed for Iranian gamers.
+
+**Features**
+
+* 🎮 Gaming profiles
+* 👥 Social interactions
+* 📰 Feeds & posts
+* 🏆 Gaming features
+* 🎯 Game-focused tools
+
+**Stack**
+
+`Next.js` `TypeScript` `PostgreSQL`
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🎵 MeloBeat
+
+A music-focused platform and Telegram project.
+
+**Features**
+
+* 🎵 Music discovery
+* 📚 Metadata management
+* 🎧 Playlists
+* 🤖 Telegram integration
+* 🔎 Music tools
+
+**Stack**
+
+`Node.js` `TypeScript` `PostgreSQL`
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🐾 HedwigStore
+
+A modern e-commerce platform for pet products.
+
+**Features**
+
+* 🛒 Online shopping
+* 📦 Product management
+* 👤 User accounts
+* 💳 Online payments
+* 📱 Modern UI
+
+**Stack**
+
+`Next.js` `TypeScript` `PostgreSQL`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🌱 Currently Learning
+# 📊 GitHub Analytics
 
-* 🤖 Artificial Intelligence & LLMs
-* ⚙️ Go
-* 🦀 Rust
-* ⛓️ Blockchain & Web3
-* 🏗️ System Design
-* 🧠 AI Agents
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
 
-## 🎯 Interests
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
-* Artificial Intelligence
-* Web Development
-* Backend Development
-* Blockchain
-* Open Source
-* Developer Tools
-* Software Architecture
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# ⏱️ Coding Activity
 
-📧 **Email:** [aghajanimohammad.13a89@gmail.com](mailto:aghajanimohammad.13a89@gmail.com)
+<div align="center">
 
-💬 **Telegram:** [@Miomo26](https://t.me/Miomo26)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" width="70%"/>
 
-🐙 **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+</div>
 
 ---
 
-<p align="center">
-  <i>Building, learning, and improving one project at a time. 🚀</i>
-</p>
+# 🌱 Currently Learning
+
+<table>
+<tr>
+
+<td align="center" width="16%">
+🤖<br/>
+<b>AI</b>
+</td>
+
+<td align="center" width="16%">
+🧠<br/>
+<b>LLMs</b>
+</td>
+
+<td align="center" width="16%">
+⚙️<br/>
+<b>Go</b>
+</td>
+
+<td align="center" width="16%">
+🦀<br/>
+<b>Rust</b>
+</td>
+
+<td align="center" width="16%">
+⛓️<br/>
+<b>Blockchain</b>
+</td>
+
+<td align="center" width="16%">
+🏗️<br/>
+<b>System Design</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 My Interests
+
+```text
+Artificial Intelligence     ████████████████████
+Web Development             ██████████████████
+Backend Development         ████████████████
+Developer Tools             ███████████████
+Blockchain / Web3           █████████████
+Open Source                 ███████████
+System Design               ██████████
+```
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 💬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:aghajanimohammad.13a89@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Miomo26">
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Build. Learn. Experiment. Repeat.
+
+<i>Thanks for visiting my profile! ⭐</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
