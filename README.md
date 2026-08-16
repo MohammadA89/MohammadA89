@@ -1,43 +1,18 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         HEADER                                  -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohammad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
 # 👋 Hi, I'm Mohammad
 
 ### 💻 Student & Developer · 🤖 AI Enthusiast · 🌐 Full-Stack Builder
 
-<p>
-  <i>Building ideas into real software, one project at a time.</i>
+<p align="left">
+  <a href="https://github.com/MohammadA89">
+    <img src="https://komarev.com/ghpvc/?username=MohammadA89&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/MohammadA89?tab=followers">
+    <img src="https://img.shields.io/github/followers/MohammadA89?label=Followers&style=flat" alt="Followers" />
+  </a>
+  <a href="https://github.com/MohammadA89?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MohammadA89?affiliations=OWNER&style=flat" alt="Stars" />
+  </a>
 </p>
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6e40c9"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=238636"/>
-</a>
-<a href="mailto:aghajanimohammad.13a89@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://t.me/Miomo26">
-  <img src="https://img.shields.io/badge/Telegram-@Miomo26-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -48,10 +23,10 @@
 │                                                             │
 │  👨‍💻  Student & Developer                                  │
 │  🚀  Building modern web applications                       │
-│  🤖  Exploring AI, LLMs & intelligent systems                │
+│  🤖  Exploring AI, LLMs & intelligent systems               │
 │  🌐  Full-Stack & Backend development                        │
 │  ⛓️  Interested in Blockchain & Web3                        │
-│  🧩  Love turning ideas into real products                   │
+│  🧩  Turning ideas into real products                        │
 │  🌱  Always learning something new                           │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -61,41 +36,21 @@
 
 # ⚡ What I'm Working On
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🤖 AI & LLMs
 
 Exploring artificial intelligence, LLMs, AI agents and intelligent applications.
-
-</td>
-<td width="50%">
 
 ### 🌐 Web Development
 
 Building modern, scalable and user-friendly web applications.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### ⛓️ Blockchain
 
 Learning blockchain fundamentals, Web3 and decentralized applications.
 
-</td>
-<td width="50%">
-
 ### ⚙️ Backend & Systems
 
 Exploring backend architecture, databases, APIs and system design.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -104,33 +59,34 @@ Exploring backend architecture, databases, APIs and system design.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css,go" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,html,css" />
 </p>
 
 ### ⚛️ Frameworks & Runtime
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind" />
 </p>
 
 ### 🗄️ Database & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,linux" />
+</p>
+
+### 🤖 AI & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
 ## 🎮 GameX
 
-A gaming platform designed for Iranian gamers.
+> A gaming platform designed for Iranian gamers.
 
 **Features**
 
@@ -144,13 +100,11 @@ A gaming platform designed for Iranian gamers.
 
 `Next.js` `TypeScript` `PostgreSQL`
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ## 🎵 MeloBeat
 
-A music-focused platform and Telegram project.
+> A music-focused platform and Telegram project.
 
 **Features**
 
@@ -164,13 +118,11 @@ A music-focused platform and Telegram project.
 
 `Node.js` `TypeScript` `PostgreSQL`
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ## 🐾 HedwigStore
 
-A modern e-commerce platform for pet products.
+> A modern e-commerce platform for pet products.
 
 **Features**
 
@@ -184,80 +136,61 @@ A modern e-commerce platform for pet products.
 
 `Next.js` `TypeScript` `PostgreSQL`
 
-</td>
-
-</tr>
-</table>
-
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammadA89&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadA89&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadA89&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MohammadA89&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent"
+    height="180"
+    alt="Mohammad's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadA89&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+    height="180"
+    alt="Mohammad's Top Languages"
+  />
+</p>
 
 ---
 
-# ⏱️ Coding Activity
+# 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=MohammadA89&hide_border=true&theme=transparent"
+    alt="Mohammad's GitHub Streak"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohammadA89&theme=tokyonight&hide_border=true&layout=compact" width="70%"/>
+---
 
-</div>
+# 📈 Coding Activity
+
+<p align="center">
+  <a href="https://github.com/MohammadA89">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadA89&theme=github-compact&hide_border=true&area=true"
+      alt="Mohammad's Activity Graph"
+    />
+  </a>
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-<table>
-<tr>
-
-<td align="center" width="16%">
-🤖<br/>
-<b>AI</b>
-</td>
-
-<td align="center" width="16%">
-🧠<br/>
-<b>LLMs</b>
-</td>
-
-<td align="center" width="16%">
-⚙️<br/>
-<b>Go</b>
-</td>
-
-<td align="center" width="16%">
-🦀<br/>
-<b>Rust</b>
-</td>
-
-<td align="center" width="16%">
-⛓️<br/>
-<b>Blockchain</b>
-</td>
-
-<td align="center" width="16%">
-🏗️<br/>
-<b>System Design</b>
-</td>
-
-</tr>
-</table>
+```text
+🤖 Artificial Intelligence
+🧠 Large Language Models
+🔗 Blockchain & Web3
+⚙️ Backend Architecture
+🗄️ Database Design
+🏗️ System Design
+☁️ DevOps & Infrastructure
+🔐 Application Security
+```
 
 ---
 
@@ -275,44 +208,65 @@ System Design               ██████████
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Graph
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/MohammadA89/MohammadA89/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+---
 
-</div>
+# 📊 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MohammadA89&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered&hide_border=true&theme=transparent"
+    alt="Contribution Statistics"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=MohammadA89&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# 📌 GitHub Profile
+
+<p align="center">
+  <a href="https://github.com/MohammadA89">
+    <img src="https://img.shields.io/badge/GitHub-MohammadA89-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 # 💬 Let's Connect
 
-<div align="center">
+<p align="center">
 
-<a href="mailto:aghajanimohammad.13a89@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/MohammadA89">
+  <img src="https://img.shields.io/badge/GitHub-MohammadA89-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://t.me/Miomo26">
-<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### 🚀 Build. Learn. Experiment. Repeat.
 
-<i>Thanks for visiting my profile! ⭐</i>
+⭐ Thanks for visiting my profile!
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
+</p>
