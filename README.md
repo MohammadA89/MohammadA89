@@ -25,10 +25,10 @@
 <br/>
 
 <a href="https://github.com/MohammadA89">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6e40c9"/>
+  <img src="https://img.shields.io/github/followers/MohammadA89?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6e40c9"/>
 </a>
 <a href="https://github.com/MohammadA89?tab=repositories">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=238636"/>
+  <img src="https://img.shields.io/github/stars/MohammadA89?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=238636"/>
 </a>
 <a href="mailto:aghajanimohammad.13a89@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -195,9 +195,9 @@ A modern e-commerce platform for pet products.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammadA89&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadA89&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
 </div>
 
@@ -205,17 +205,7 @@ A modern e-commerce platform for pet products.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# ⏱️ Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=MohammadA89&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
@@ -297,7 +287,7 @@ System Design               ██████████
 <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/MohammadA89">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
